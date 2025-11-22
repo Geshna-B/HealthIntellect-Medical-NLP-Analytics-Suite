@@ -1,0 +1,17 @@
+streamlit==1.36.0
+requests==2.32.3
+pandas==2.2.2
+numpy==1.26.4
+networkx==3.2.1
+matplotlib==3.8.4
+plotly==5.22.0
+
+# spaCy + compatible dependencies
+spacy==3.7.2
+thinc==8.2.2
+catalogue==2.0.10
+
+# Neo4j connections
+neo4j==5.19.0
+
+python-dotenv==1.0.1
